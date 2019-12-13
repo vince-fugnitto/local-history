@@ -2,7 +2,7 @@
 
 ## Local History - VS Code Extension
 
-<img src="./assets/img/local-history-logo.png" alt="local history" width="150px" />
+<img src="https://raw.githubusercontent.com/vince-fugnitto/local-history/master/assets/img/local-history-logo.png" alt="local history" width="150px" />
 
 </div>
 

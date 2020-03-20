@@ -8,4 +8,17 @@
 
 ### Description
 
-The extension provides local edit history for a given file which is saved when a file has been created or modified. A user has the ability to view and recover the file if they so choose without the need for any source control manager. The extension is useful in disaster recovery.
+The **Local History** extension manages local revisions of a file independently of source control providers,
+and allows users the ability to easily view, track, and restore files based on a given checkpoint (timestamp).
+The extension is particularly useful in disaster recovery.
+
+### User Stories
+- [] the `local history` ext should contribute a `tree-view` to the explorer which is updated when a file is opened
+- [] the `local history` ext should list the revisions of a file from which the user can restore from
+- [] the `local history` ext should store `n-amount` of revisions per file (configurable through preferences)
+- [] the `local history` ext should keep data for an `n-amount` of time (configurable through preferences)
+- [] add useful commands to help users to work with the `local history` ext
+
+
+**Additional Information**
+- [Local History - IntelliJ IDEA](https://www.jetbrains.com/help/idea/local-history.html)
